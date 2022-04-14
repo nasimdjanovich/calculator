@@ -1,5 +1,5 @@
 # calculator
-simple Calculator using Python
+Simple Calculator using Python
 
 Telegram: https://t.me/karimjan_webdev
 
